@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    font-size: 105%;
+    margin: 4px;
+
+}
+fieldset{
+    background-color: #70b9d1;
+    width: 60%;
+    border: 0px solid #222;
+    border-radius: 10px;
+}
+fieldset legend{
+    font-weight: bold;
+    position: relative;
+    left: -19px;
+    bottom: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #70b9d1;
+    color: #fff;
+    font-size: 40px;
+    text-shadow: 1px 1px 5px #222;
+}
+input,select{
+    border: 3px solid #222;
+    border-radius: 10px;
+    background-color: #f7f5f5;
+}
+input:focus{
+    outline: none;
+}
+input[type="textarea"]{
+    font-size: 60%;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+}
+label{
+    color: #222;
+    font-weight: bolder;
+}
+.btn{
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bolder;
+    border-width: 0px;
+    border-radius: 10px;
+}
+.btn:active{
+    border:4px solid #222;
+}
+input[type="submit"]{
+    background-color: #94b447;
+}
+input[type="reset"]{
+    background-color: #d45769;
+}

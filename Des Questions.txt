@@ -1,0 +1,6 @@
+EX1/14/ : 
+balise <link rel="" href="" />
+EX2/7/ :
+background : url("lien de l'image")
+
+

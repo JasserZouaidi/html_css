@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 20px;
+}
+ol{
+    font-style: italic;
+    font-weight: bolder;
+    
+}
